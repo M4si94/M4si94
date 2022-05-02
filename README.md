@@ -18,6 +18,7 @@ Here you can find some of my public work.
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)](#)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-fb8261?style=flat-square&logo=mysql&logoColor=white)](#)
