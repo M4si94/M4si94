@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-My name is *Masood H.Saghayan*, and I'm a software engineer.AIsystems-level programming,
+My name is *Masood H.Saghayan*, and I'm a software engineer. My AIsystems-level programming,
 but I enjoy programming in general and would jump on the opportunity to try
 new things!
 Here you can find some of my public work.
@@ -19,6 +19,7 @@ Here you can find some of my public work.
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![MATLAB]https://img.shields.io/badge/-MATLAB-A8B9CC?style=flat-square&logo=&logoColor=orange](#)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/-GNUBash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](#)
 
