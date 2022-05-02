@@ -20,7 +20,6 @@ Here you can find some of my public work.
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-4479A1?style=flat-square&logo=mysql&logoColor=orange)](#)
-[![MATLAB]https://img.shields.io/badge/-MATLAB-A8B9CC?style=flat-square&logo=&logoColor=orange](#)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/-GNUBash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](#)
 
